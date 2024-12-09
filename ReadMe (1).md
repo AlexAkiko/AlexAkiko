@@ -1,18 +1,16 @@
-# 💫 About Me:
-🎨 Graphic designer<br>💻 Front End Student
+<h5 align="left">Olá, seja bem vindo, Estou migrando do Design Gráfico para o Front End, assim unindo as duas áreas para poder trabalhar de forma criativa e funcional em qualquer página, aplicativo ou produto que criarei.</h5>
 
+###
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/AlexxAkiko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alex-akiko-🏳%EF%B8%8F%E2%80%8D⚧%EF%B8%8F-153b65277/) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexAkiko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexAkiko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alex Akiko&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alex Akiko&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex Akiko&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Alex Akiko&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/b8987a5cdc34fed1-61/s540x810/d3d06e0239eebb8f582331f1cfde0b7eea6d1a21.gifv"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
