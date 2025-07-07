@@ -9,13 +9,6 @@
 
 ###
 
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/2a/fa/b3/2afab331c7d9abc20eebd5e1bc4d10b8.gif"  />
-</div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
@@ -23,5 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/2a/fa/b3/2afab331c7d9abc20eebd5e1bc4d10b8.gif"  />
+</div>
+
+
 
 ###
